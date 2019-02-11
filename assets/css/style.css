@@ -1,0 +1,13 @@
+.navbar{
+  background-color: #660066;
+}
+
+.titulo{
+  color: #FFFFFF;
+  font-family: Oswald;
+  font-weight: 700;
+}
+.imagen_principal{
+  background-image:  url("../img/bg_hero.png");
+  background-size: cover;
+}
