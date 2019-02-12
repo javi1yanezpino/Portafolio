@@ -11,3 +11,28 @@
   background-image:  url("../img/bg_hero.png");
   background-size: cover;
 }
+
+.color_nav{
+  font-family: Oswald;
+
+}
+
+.texto_principal{
+  font-family: Oswald;
+  font-size: 40px;
+  margin-top: 30px;
+  padding-top: 500px;
+
+}
+
+.color_hr{
+  border: 2px solid #ffffff;
+  width: 400px;
+}
+
+.texto_acercademi{
+  font-family: Oswald;
+  font-size: 30px;
+  padding-bottom: 200px;
+
+}
