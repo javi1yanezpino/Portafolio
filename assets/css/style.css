@@ -8,8 +8,9 @@
   font-weight: 700;
 }
 .imagen_principal{
-  background-image:  url("../img/bg_hero.png");
+  background-image:  url("../img/portada1.jpeg");
   background-size: cover;
+  background-position: center;
 }
 
 .color_nav{
@@ -21,7 +22,7 @@
   font-family: Oswald;
   font-size: 40px;
   margin-top: 30px;
-  padding-top: 500px;
+  padding-top: 600px;
 
 }
 
